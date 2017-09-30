@@ -1,3 +1,2 @@
 Hello, GitHub!
 
-I made the change.
